@@ -21,3 +21,7 @@
 - 🔐 **Autenticación con OAuth2 (Google, GitHub, LinkedIn)** – Integración segura con JWT.
 
 ---
+## 🌐 Contacto
+- Correo electronico: ckeinercano@gmail.com
+---
+# Disponible al aprendizaje autodidacta 
