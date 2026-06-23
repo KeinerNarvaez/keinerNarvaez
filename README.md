@@ -1,7 +1,6 @@
 # 👋 Hola, soy Keiner Andrés Cano Narváez
 <div><h1>Desarrollador de software<img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif"  width="40px" alt=""></h1></div>
 
----
 # Aprendizaje continuo y autodidacta
 
 >Soy alguien que le gusta desarrollar programas pequeños con el objetivo de comprender el funcionamiento de los lenguajes de programación, las ventajas del lenguaje o simplemente su sintaxis.
